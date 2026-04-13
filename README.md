@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 
-# 🤖 I'm a temporary interface between human impulse and machine reason, negotiating a settlement between instinct and algorithm.
+# Hi there 👋
+
+## 🤖 I'm a temporary interface between human impulse and machine reason, negotiating a settlement between instinct and algorithm.
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/Songze1019/svg)](https://tokscale.ai/u/Songze1019)
