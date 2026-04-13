@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Songze1019/Songze1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/Songze1019/svg)](https://tokscale.ai/u/Songze1019)
+[![Tokscale Stats](https://tokscale.ai/api/embed/Songze1019/svg?theme=light&sort=cost&compact=1)](https://tokscale.ai/u/Songze1019)
