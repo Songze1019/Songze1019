@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🤖 I'm a temporary interface between human impulse and machine reason, negotiating a settlement between instinct and algorithm.
+
 [![Tokscale Stats](https://tokscale.ai/api/embed/Songze1019/svg?theme=light&sort=cost&compact=1)](https://tokscale.ai/u/Songze1019)
